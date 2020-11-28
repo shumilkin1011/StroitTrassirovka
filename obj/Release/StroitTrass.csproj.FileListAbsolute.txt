@@ -1,0 +1,9 @@
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\StroitTrass\bin\Release\StroitTrass.exe.config
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\StroitTrass\bin\Release\StroitTrass.exe
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\StroitTrass\bin\Release\StroitTrass.pdb
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\StroitTrass\obj\Release\StroitTrass.Form1.resources
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\StroitTrass\obj\Release\StroitTrass.Properties.Resources.resources
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\StroitTrass\obj\Release\StroitTrass.csproj.GenerateResource.cache
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\StroitTrass\obj\Release\StroitTrass.exe
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\StroitTrass\obj\Release\StroitTrass.pdb
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\StroitTrass\obj\Release\StroitTrass.csprojAssemblyReference.cache

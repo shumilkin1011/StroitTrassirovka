@@ -1,0 +1,19 @@
+c:\users\sergey\source\repos\StroitTrass\bin\Debug\StroitTrass.exe.config
+c:\users\sergey\source\repos\StroitTrass\bin\Debug\StroitTrass.exe
+c:\users\sergey\source\repos\StroitTrass\bin\Debug\StroitTrass.pdb
+c:\users\sergey\source\repos\StroitTrass\obj\Debug\StroitTrass.csprojAssemblyReference.cache
+c:\users\sergey\source\repos\StroitTrass\obj\Debug\StroitTrass.Form1.resources
+c:\users\sergey\source\repos\StroitTrass\obj\Debug\StroitTrass.Properties.Resources.resources
+c:\users\sergey\source\repos\StroitTrass\obj\Debug\StroitTrass.csproj.GenerateResource.cache
+c:\users\sergey\source\repos\StroitTrass\obj\Debug\StroitTrass.csproj.CoreCompileInputs.cache
+c:\users\sergey\source\repos\StroitTrass\obj\Debug\StroitTrass.exe
+c:\users\sergey\source\repos\StroitTrass\obj\Debug\StroitTrass.pdb
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\StroitTrass\bin\Debug\StroitTrass.exe.config
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\StroitTrass\bin\Debug\StroitTrass.exe
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\StroitTrass\bin\Debug\StroitTrass.pdb
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\StroitTrass\obj\Debug\StroitTrass.csprojAssemblyReference.cache
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\StroitTrass\obj\Debug\StroitTrass.Form1.resources
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\StroitTrass\obj\Debug\StroitTrass.Properties.Resources.resources
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\StroitTrass\obj\Debug\StroitTrass.csproj.GenerateResource.cache
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\StroitTrass\obj\Debug\StroitTrass.exe
+C:\Users\Sergey\Documents\Visual Studio 2019\Projects\repos\StroitTrass\obj\Debug\StroitTrass.pdb
